@@ -7,8 +7,8 @@ Sou um desenvolvedor back-end com experiência em automação RPA usando Seleniu
 <hr>
 
 <ol>
-  <li>Criação de web scraping com Selenium e Playwright</li>
-  <li>Desenvolvimento de aplicações web com Django e Django REST Framework</li>
+  <li>Criação de web scraping com Selenium</li>
+  <li>Desenvolvimento de aplicações web com Django e Django REST Framework e FastAPI</li>
   <li>Manipulação e criação de APIs REST</li>
   <li>Controle de versão de código com Git</li>
   <li>Manipulação de dados com Pandas</li>
